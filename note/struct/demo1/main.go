@@ -18,6 +18,7 @@ func main() {
 		Age:  20,
 	}
 	fmt.Println(b)
+
 	//point
 	c := &person{
 		Name: "chandler",
